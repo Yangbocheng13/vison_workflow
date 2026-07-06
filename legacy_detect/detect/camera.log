@@ -1,0 +1,4 @@
+file loaded, __name__=__main__
+*******XOpenDisplay Fail *******
+[INFO] [1780824941.192690930] [hik_camera_publisher]: Found 1 camera(s)
+[INFO] [1780824942.836288233] [hik_camera_publisher]: Camera started
